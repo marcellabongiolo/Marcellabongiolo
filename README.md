@@ -1,2 +1,4 @@
-eu me chamo Marcella Bongiolo, sou estudante de engenharia de software-Unesc
+My name is Marcella Bongiolo, and I am a Software Engineering student at UNESC.
+
 Email: marcellabongioloemili@gmail.com
+
