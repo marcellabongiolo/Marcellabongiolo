@@ -8,7 +8,6 @@ Welcome to my GitHub profile. This space documents my journey in **Software Engi
 
 - 📚 Preparing for a degree in **Software Engineering at UNESC**
 - 🐍 Developing with **Python**
-- 🧠 Studying algorithms, logic and computer science fundamentals
 - 🏛️ Practicing software architecture and clean code
 - 🗄️ Exploring databases and SQL
 - 🌐 Developing with JavaScript
@@ -23,7 +22,6 @@ Welcome to my GitHub profile. This space documents my journey in **Software Engi
 - SQL
 
 **Engineering**
-- Algorithms & data structures
 - Object-oriented programming
 - Software architecture
 - Clean code
@@ -42,7 +40,6 @@ Welcome to my GitHub profile. This space documents my journey in **Software Engi
 
 Some of the projects in this profile include:
 
-- 🧠 **Algorithms & Logic Lab** — algorithms and programming fundamentals with Python
 - 🏛️ **Software Architecture Lab** — layered architecture, separation of responsibilities and dependency injection
 - ☁️ **Distributed Cache Lab** — LRU cache implementation and testing
 - 🚀 **Aerospace Math Lab** — numerical simulations and aerospace calculations
