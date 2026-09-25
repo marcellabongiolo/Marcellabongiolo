@@ -1,20 +1,25 @@
 # 👩‍💻 Marcella Bongiolo
 
-**Software Engineering | Python | Algorithms | Software Architecture | Cloud & Platform Engineering**
+**Software Engineering Student | Python | Algorithms | Software Architecture | Cloud & Platform Engineering**
 
-Welcome to my GitHub profile. This space documents my journey in **Software Engineering**, with a focus on building practical projects, strengthening computer science fundamentals, and developing a strong technical foundation for the future.
+Welcome to my GitHub profile. I'm currently at the beginning of my journey in **Software Engineering and technology**.
+
+I don't have professional experience in the tech industry yet. I'm still learning, exploring different technologies, and building personal projects to put what I study into practice.
+
+I'm especially interested in understanding how software works and turning what I learn into practical projects.
 
 ## 🎯 Current Focus
 
 - 📚 Preparing for a degree in **Software Engineering at UNESC**
-- 🐍 Developing with **Python**
-- 🏛️ Practicing software architecture and clean code
-- 🗄️ Exploring databases and SQL
-- 🌐 Developing with JavaScript
-- ☁️ Building toward **Cloud & Platform Engineering**
-- 🚀 Creating projects that demonstrate continuous technical growth
+- 🐍 Learning and developing with **Python**
+- 🧠 Strengthening programming and computer science fundamentals
+- 🏛️ Exploring software architecture and clean code
+- 🗄️ Learning databases and SQL
+- 🌐 Exploring web development and JavaScript
+- ☁️ Learning about **Cloud & Platform Engineering**
+- 🚀 Building projects as part of my learning journey
 
-## 🛠️ Technologies & Concepts
+## 🛠️ Technologies & Concepts I'm Exploring
 
 **Languages**
 - Python
@@ -36,33 +41,31 @@ Welcome to my GitHub profile. This space documents my journey in **Software Engi
 - Software architecture
 - Artificial intelligence and machine learning
 
-## 📂 Featured Projects
+## 📂 Projects
 
-Some of the projects in this profile include:
+The projects in this profile are part of my **learning process**.
 
-- 🏛️ **Software Architecture Lab** — layered architecture, separation of responsibilities and dependency injection
-- ☁️ **Distributed Cache Lab** — LRU cache implementation and testing
-- 🚀 **Aerospace Math Lab** — numerical simulations and aerospace calculations
-- 🗄️ **Clínica Estética Schema** — relational database modeling with SQL
-- 🟨 **JavaScript Lab** — JavaScript fundamentals and automated tests
-- 🎓 **Harvard CS50** — programming and computer science exercises inspired by CS50
-- 🇨🇭 **Swiss German Lab** — programming practice combined with Swiss German vocabulary
+Some of them explore technologies and concepts that I'm still studying. They are not meant to represent professional experience or advanced expertise. Instead, they show my initiative to **learn, experiment, build, and improve**.
+
+As I gain more knowledge, I plan to revisit my projects, improve their implementations, and apply better practices.
 
 ## 📈 Learning Philosophy
 
-I use GitHub as a technical portfolio and learning laboratory.
+I use GitHub as a **technical portfolio and learning laboratory**.
 
-The goal is not only to write code, but to progressively improve:
+My goal is to progressively improve through practice:
 
 **logic → code quality → testing → architecture → systems → cloud**
 
-Each repository represents part of that progression.
+Each repository represents a step in that learning process.
 
 ## 🌱 Long-Term Direction
 
 My long-term interests are centered around **Software Engineering, Cloud & Platform Engineering, scalable systems, and technical leadership**.
 
-I am especially interested in understanding how software systems are designed, deployed, operated, and evolved at scale.
+I'm especially interested in learning how software systems are designed, developed, deployed, operated, and evolved.
+
+I'm still at the beginning, but I genuinely enjoy technology and want to keep learning and building.
 
 ## 📊 GitHub Activity
 
@@ -78,4 +81,4 @@ I am especially interested in understanding how software systems are designed, d
 
 ---
 
-> Building skills quietly, one project at a time. 🚀
+> I'm still learning — and that's exactly why I'm building. 🌱
