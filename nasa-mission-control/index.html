@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="NASA Mission Control Dashboard — a software engineering portfolio project." />
+  <title>NASA Mission Control</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark">N</span><span>MISSION CONTROL</span></div>
+    <span class="status"><i></i> SYSTEM OPERATIONAL</span>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">NASA SOFTWARE SYSTEMS / 01</p>
+        <h1>MISSION<br><span>CONTROL</span></h1>
+        <p class="lead">A front-end simulation of a mission operations dashboard, built as a software engineering portfolio project.</p>
+        <div class="actions">
+          <a href="#telemetry" class="button primary">VIEW TELEMETRY</a>
+          <a href="#missions" class="button">MISSIONS</a>
+        </div>
+      </div>
+      <div class="orbital-card" aria-label="Orbital visualization">
+        <div class="orbit orbit-1"></div><div class="orbit orbit-2"></div>
+        <div class="planet"></div><div class="satellite">◆</div>
+        <span class="orbit-label">ORBITAL<br>TRACKING</span>
+      </div>
+    </section>
+
+    <section id="telemetry" class="section">
+      <div class="section-head"><span>02 / TELEMETRY</span><span id="utc">UTC --:--:--</span></div>
+      <div class="metrics">
+        <article><span>MISSION STATUS</span><strong>ACTIVE</strong><small>Nominal operations</small></article>
+        <article><span>ALTITUDE</span><strong>408 KM</strong><small>Low Earth Orbit</small></article>
+        <article><span>VELOCITY</span><strong>7.66 KM/S</strong><small>Orbital velocity</small></article>
+        <article><span>UPTIME</span><strong>99.98%</strong><small>System reliability</small></article>
+      </div>
+    </section>
+
+    <section id="missions" class="section">
+      <div class="section-head"><span>03 / ACTIVE MISSIONS</span><span>LIVE SIMULATION</span></div>
+      <div id="mission-list" class="mission-list"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><span>04 / SYSTEM TELEMETRY</span><span>LAST 60 MIN</span></div>
+      <div class="chart-wrap"><canvas id="telemetryChart" aria-label="Telemetry chart"></canvas></div>
+    </section>
+  </main>
+
+  <footer><span>NASA MISSION CONTROL / PORTFOLIO LAB</span><span>BUILT WITH HTML · CSS · JAVASCRIPT</span></footer>
+  <script src="./app.js"></script>
+</body>
+</html>
