@@ -1,4 +1,4 @@
-# 👩‍💻 Marcella Bongiolo
+ 👩‍💻 Marcella Bongiolo
 
 **Software Engineering Student | Python | Algorithms | Software Architecture | Cloud & Platform Engineering**
 
