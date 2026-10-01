@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="NEXUS — an interactive personal laboratory exploring software engineering, AI, cloud and system architecture." />
+  <title>NEXUS — Intelligent Systems Lab</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="grid-bg" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="brand" href="#top">NEXUS<span>.</span></a>
+    <nav aria-label="Primary navigation">
+      <a href="#system">System</a>
+      <a href="#architecture">Architecture</a>
+      <a href="#experiments">Experiments</a>
+      <a href="#about">About</a>
+    </nav>
+    <a class="header-link" href="https://github.com/marcellabongiolo/Marcellabongiolo" target="_blank" rel="noreferrer">GitHub ↗</a>
+  </header>
+
+  <main id="top">
+    <section class="hero section">
+      <div class="hero-copy">
+        <p class="eyebrow">PERSONAL TECHNOLOGY LABORATORY</p>
+        <h1>Intelligent systems.<br /><span>Connected by design.</span></h1>
+        <p class="hero-text">
+          NEXUS is an evolving project exploring the intersection of software engineering,
+          artificial intelligence, cloud computing and system architecture.
+        </p>
+        <div class="actions">
+          <a class="button primary" href="#system">Enter the lab</a>
+          <a class="button secondary" href="#architecture">View architecture</a>
+        </div>
+      </div>
+
+      <div class="system-orbit" aria-label="Interactive system map">
+        <div class="orbit orbit-one"></div>
+        <div class="orbit orbit-two"></div>
+        <div class="node node-core">NEXUS</div>
+        <button class="node node-ai" data-topic="AI">AI</button>
+        <button class="node node-data" data-topic="DATA">DATA</button>
+        <button class="node node-cloud" data-topic="CLOUD">CLOUD</button>
+        <button class="node node-api" data-topic="API">API</button>
+        <div class="connection c1"></div>
+        <div class="connection c2"></div>
+        <div class="connection c3"></div>
+        <div class="connection c4"></div>
+      </div>
+    </section>
+
+    <section class="statement">
+      <p>SOFTWARE → SYSTEMS → INTELLIGENCE → SCALE</p>
+    </section>
+
+    <section class="section" id="system">
+      <div class="section-heading">
+        <p class="eyebrow">01 — SYSTEM</p>
+        <h2>One system.<br /><span>Multiple layers.</span></h2>
+      </div>
+
+      <div class="system-grid">
+        <article class="info-card active" data-topic-card="AI">
+          <span class="card-index">01</span>
+          <h3>Artificial Intelligence</h3>
+          <p>Exploring how intelligent capabilities can become part of practical software systems.</p>
+        </article>
+        <article class="info-card" data-topic-card="DATA">
+          <span class="card-index">02</span>
+          <h3>Data</h3>
+          <p>Understanding how data moves through applications and becomes useful information.</p>
+        </article>
+        <article class="info-card" data-topic-card="API">
+          <span class="card-index">03</span>
+          <h3>APIs</h3>
+          <p>Studying interfaces that connect applications, services and system boundaries.</p>
+        </article>
+        <article class="info-card" data-topic-card="CLOUD">
+          <span class="card-index">04</span>
+          <h3>Cloud</h3>
+          <p>Exploring infrastructure, deployment and the foundations of scalable platforms.</p>
+        </article>
+      </div>
+
+      <div class="topic-panel" id="topicPanel">
+        <span class="panel-label">SELECTED LAYER</span>
+        <strong id="panelTitle">ARTIFICIAL INTELLIGENCE</strong>
+        <p id="panelText">Select a node or layer above to explore the concept.</p>
+      </div>
+    </section>
+
+    <section class="section architecture" id="architecture">
+      <div class="section-heading">
+        <p class="eyebrow">02 — ARCHITECTURE</p>
+        <h2>From interface<br /><span>to infrastructure.</span></h2>
+      </div>
+
+      <div class="architecture-stack">
+        <div class="stack-layer"><span>01</span><strong>USER</strong><small>Experience & interaction</small></div>
+        <div class="stack-arrow">↓</div>
+        <div class="stack-layer"><span>02</span><strong>WEB APPLICATION</strong><small>Interface & client logic</small></div>
+        <div class="stack-arrow">↓</div>
+        <div class="stack-layer"><span>03</span><strong>API / SERVICES</strong><small>Business logic & integration</small></div>
+        <div class="stack-arrow">↓</div>
+        <div class="stack-layer"><span>04</span><strong>DATA / AI</strong><small>Persistence & intelligence</small></div>
+        <div class="stack-arrow">↓</div>
+        <div class="stack-layer"><span>05</span><strong>CLOUD PLATFORM</strong><small>Runtime & infrastructure</small></div>
+      </div>
+    </section>
+
+    <section class="section" id="experiments">
+      <div class="section-heading">
+        <p class="eyebrow">03 — EXPERIMENTS</p>
+        <h2>Learn by building.<br /><span>Improve by revisiting.</span></h2>
+      </div>
+
+      <div class="experiment-grid">
+        <article class="experiment-card">
+          <span>EXPERIMENT 01</span>
+          <h3>AI Layer</h3>
+          <p>A small interactive model of how an intelligence layer can sit inside an application.</p>
+          <button class="experiment-button" data-message="The AI layer is currently a front-end concept and will evolve with future experiments.">Run concept →</button>
+        </article>
+        <article class="experiment-card">
+          <span>EXPERIMENT 02</span>
+          <h3>Distributed Systems</h3>
+          <p>Visualizing services and boundaries to reason about communication and system design.</p>
+          <button class="experiment-button" data-message="This experiment is currently a visual study of service boundaries and communication.">Run concept →</button>
+        </article>
+        <article class="experiment-card">
+          <span>EXPERIMENT 03</span>
+          <h3>Cloud Architecture</h3>
+          <p>Mapping application components to infrastructure and deployment layers.</p>
+          <button class="experiment-button" data-message="This concept focuses on understanding how application layers map to cloud infrastructure.">Run concept →</button>
+        </article>
+      </div>
+
+      <div class="experiment-output" id="experimentOutput" role="status">
+        Choose an experiment to display its current state.
+      </div>
+    </section>
+
+    <section class="section about" id="about">
+      <div class="section-heading">
+        <p class="eyebrow">04 — ABOUT NEXUS</p>
+        <h2>A project that<br /><span>evolves with learning.</span></h2>
+      </div>
+      <div class="about-layout">
+        <p>
+          NEXUS is a personal technology laboratory created as part of Marcella Bongiolo's
+          software engineering learning journey. It is intentionally presented as an evolving
+          study project, not as professional experience or a finished commercial platform.
+        </p>
+        <div class="principles">
+          <div><span>01</span><strong>LEARN</strong></div>
+          <div><span>02</span><strong>BUILD</strong></div>
+          <div><span>03</span><strong>TEST</strong></div>
+          <div><span>04</span><strong>IMPROVE</strong></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="closing section">
+      <p class="eyebrow">NEXT ITERATION</p>
+      <h2>The system is<br /><span>still becoming.</span></h2>
+      <p>New experiments, better architecture and deeper technical studies will be added over time.</p>
+      <a class="button primary" href="https://github.com/marcellabongiolo/Marcellabongiolo/tree/main/projects/nexus-intelligent-systems" target="_blank" rel="noreferrer">View source on GitHub ↗</a>
+    </section>
+  </main>
+
+  <footer>
+    <span>NEXUS — Intelligent Systems Lab</span>
+    <span>Marcella Bongiolo · 2026</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
