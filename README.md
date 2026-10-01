@@ -47,6 +47,12 @@ The projects in this profile are part of my **learning process**.
 
 Some of them explore technologies and concepts that I'm still studying. They are not meant to represent professional experience or advanced expertise. Instead, they show my initiative to **learn, experiment, build, and improve**.
 
+### NEXUS — Intelligent Systems Lab
+
+An interactive personal laboratory exploring **software engineering, artificial intelligence, cloud computing and system architecture**.
+
+→ [Explore NEXUS](./projects/nexus-intelligent-systems/)
+
 As I gain more knowledge, I plan to revisit my projects, improve their implementations, and apply better practices.
 
 ## 📈 Learning Philosophy
