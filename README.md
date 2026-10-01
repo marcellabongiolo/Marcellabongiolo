@@ -1,4 +1,4 @@
-👩‍💻 Marcella Bongiolo
+# Marcella Bongiolo
 
 **Software Engineering Student | Python | Algorithms | Software Architecture | Cloud & Platform Engineering**
 
@@ -8,18 +8,18 @@ I don't have professional experience in the tech industry yet. I'm still learnin
 
 I'm especially interested in understanding how software works and turning what I learn into practical projects.
 
-## 🎯 Current Focus
+## Current Focus
 
-- 📚 Preparing for a degree in **Software Engineering at UNESC**
-- 🐍 Learning and developing with **Python**
-- 🧠 Strengthening programming and computer science fundamentals
-- 🏛️ Exploring software architecture and clean code
-- 🗄️ Learning databases and SQL
-- 🌐 Exploring web development and JavaScript
-- ☁️ Learning about **Cloud & Platform Engineering**
-- 🚀 Building projects as part of my learning journey
+- Preparing for a degree in **Software Engineering at UNESC**
+- Learning and developing with **Python**
+- Strengthening programming and computer science fundamentals
+- Exploring software architecture and clean code
+- Learning databases and SQL
+- Exploring web development and JavaScript
+- Learning about **Cloud & Platform Engineering**
+- Building projects as part of my learning journey
 
-## 🛠️ Technologies & Concepts I'm Exploring
+## Technologies & Concepts I'm Exploring
 
 **Languages**
 - Python
@@ -41,7 +41,7 @@ I'm especially interested in understanding how software works and turning what I
 - Software architecture
 - Artificial intelligence and machine learning
 
-## 📂 Projects
+## Projects
 
 The projects in this profile are part of my **learning process**.
 
@@ -51,11 +51,11 @@ Some of them explore technologies and concepts that I'm still studying. They are
 
 An interactive personal laboratory exploring **software engineering, artificial intelligence, cloud computing and system architecture**.
 
-→ [Explore NEXUS](./projects/nexus-intelligent-systems/)
+[Explore NEXUS](./projects/nexus-intelligent-systems/)
 
 As I gain more knowledge, I plan to revisit my projects, improve their implementations, and apply better practices.
 
-## 📈 Learning Philosophy
+## Learning Philosophy
 
 I use GitHub as a **technical portfolio and learning laboratory**.
 
@@ -65,7 +65,7 @@ My goal is to progressively improve through practice:
 
 Each repository represents a step in that learning process.
 
-## 🌱 Long-Term Direction
+## Long-Term Direction
 
 My long-term interests are centered around **Software Engineering, Cloud & Platform Engineering, scalable systems, and technical leadership**.
 
@@ -73,18 +73,18 @@ I'm especially interested in learning how software systems are designed, develop
 
 I'm still at the beginning, but I genuinely enjoy technology and want to keep learning and building.
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcellabongiolo&show_icons=true&theme=radical&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellabongiolo&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-## 📫 Contact
+## Contact
 
 - **GitHub:** [@marcellabongiolo](https://github.com/marcellabongiolo)
 - **Email:** marcellabongioloemili@gmail.com
 
 ---
 
-> I'm still learning — and that's exactly why I'm building. 🌱
+> I'm still learning — and that's exactly why I'm building.
