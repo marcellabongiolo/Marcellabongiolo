@@ -54,7 +54,7 @@ Some of them explore technologies and concepts that I'm still studying. They are
 | [AgentTrace](https://github.com/marcellabongiolo/AgentTrace) | Local observability MVP: Python SDK, FastAPI, SQLite and Next.js; public hosting requires access controls. |
 | [FinTrack](https://github.com/marcellabongiolo/fintrack) | React/TypeScript browser demo with transaction management and tests. [Live demo](https://marcellabongiolo.github.io/fintrack/). |
 | [Swiss Company Intelligence](https://github.com/marcellabongiolo/swiss-company-intelligence) | Explainable screening pipeline and Streamlit dashboard using synthetic demo data. |
-| [SLADeck](https://github.com/marcellabongiolo/SLADeck) | Local multi-tenant operations MVP; see open PRs for onboarding/security corrections pending integration. |
+| [SLADeck](https://github.com/marcellabongiolo/SLADeck) | Local multi-tenant operations MVP with tested account onboarding, SLA policies and request workflows. |
 | [AI 4D](https://github.com/marcellabongiolo/ai-4d) | Interactive geometry visualization and experimental temporal-analysis API. |
 
 [Visit my portfolio](https://marcellabongiolo.github.io/portfolio-app/). Small exercises and forks are supplementary learning material; a fork by itself is not evidence of an original implementation.
