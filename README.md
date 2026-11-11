@@ -2,6 +2,18 @@
   <img src="./assets/banner-software-engineering.svg" alt="Marcella Bongiolo — Software Engineering; Python, TypeScript, web development, data, testing and architecture" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./assets/featured-projects-dimensional.svg" alt="Featured projects: AgentTrace, FinTrack, Swiss Company Intelligence, SLADeck and AI 4D" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/marcellabongiolo/AgentTrace">AgentTrace</a> ·
+  <a href="https://github.com/marcellabongiolo/fintrack">FinTrack</a> ·
+  <a href="https://github.com/marcellabongiolo/swiss-company-intelligence">Swiss Company Intelligence</a> ·
+  <a href="https://github.com/marcellabongiolo/SLADeck">SLADeck</a> ·
+  <a href="https://github.com/marcellabongiolo/ai-4d">AI 4D</a>
+</p>
+
 # Marcella Bongiolo
 
 **Software Engineering Student | Python | Algorithms | Software Architecture | Cloud & Platform Engineering**
