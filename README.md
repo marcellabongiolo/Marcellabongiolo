@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-software-engineering.svg" alt="Marcella Bongiolo — Engenharia de Software; Python, TypeScript, web, dados, testes e arquitetura" width="100%" />
+  <img src="./assets/banner-software-engineering.svg" alt="Marcella Bongiolo — Software Engineering; Python, TypeScript, web development, data, testing and architecture" width="100%" />
 </p>
 
 # Marcella Bongiolo
