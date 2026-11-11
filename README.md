@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-software-engineering.svg" alt="Marcella Bongiolo — Engenharia de Software; Python, TypeScript, web, dados, testes e arquitetura" width="100%" />
+</p>
+
 # Marcella Bongiolo
 
 **Software Engineering Student | Python | Algorithms | Software Architecture | Cloud & Platform Engineering**
