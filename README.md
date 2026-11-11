@@ -14,6 +14,10 @@
   <a href="https://github.com/marcellabongiolo/ai-4d">AI 4D</a>
 </p>
 
+<p align="center">
+  <img src="./assets/scottish-castle-dimensional.svg" alt="Ancient Scottish castle in the Highlands, with moonlight, moving mist and luminous dimensional rings" width="100%" />
+</p>
+
 # Marcella Bongiolo
 
 **Software Engineering Student | Python | Algorithms | Software Architecture | Cloud & Platform Engineering**
