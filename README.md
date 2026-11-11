@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/marcellabongiolo/peso_planetas.py">
-    <img src="https://raw.githubusercontent.com/marcellabongiolo/Marcellabongiolo/main/assets/solar-system-4d.svg?version=aurora3" alt="Animated miniature Solar System with the Sun, eight orbiting planets, a luminous Earth and aurora" width="78%" />
+    <img src="https://marcellabongiolo.github.io/Marcellabongiolo/assets/solar-system-aurora-bright.svg" alt="Animated miniature Solar System with the Sun, eight orbiting planets, a luminous Earth and aurora" width="78%" />
   </a>
 </p>
 <p align="center"><a href="https://github.com/marcellabongiolo/peso_planetas.py"><strong>Planetary Weight Calculator · Python</strong></a></p>
