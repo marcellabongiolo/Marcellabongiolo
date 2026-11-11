@@ -7,7 +7,7 @@
 <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
 <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#608ab8" stroke-opacity=".12"/></pattern>
 </defs>
-<rect width="1400" height="440" fill="#08090b" fill-opacity=".58"/><rect width="1400" height="440" fill="url(#grid)" opacity=".45"/>
+<rect width="1400" height="440" fill="#08090b"/><rect width="1400" height="440" fill="url(#grid)" opacity=".45"/>
 <ellipse cx="700" cy="205" rx="360" ry="235" fill="url(#halo)"><animate attributeName="opacity" values=".65;1;.65" dur="7s" repeatCount="indefinite"/></ellipse>
 <path d="M24 65V25H100 M1300 25H1376V100 M24 344V415H100 M1300 415H1376V344" fill="none" stroke="#b8bcc1" stroke-width="3" opacity=".7"/>
 <g transform="translate(700 198) scale(1.28)">
@@ -29,6 +29,6 @@
 <text x="80" y="203" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="66" letter-spacing="2" fill="url(#metal)">BONGIOLO</text>
 <text x="84" y="256" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="600" letter-spacing="7" fill="#d5d8dc">SOFTWARE ENGINEERING</text>
 <path d="M84 280H780" stroke="#a3a8ad" stroke-width="3" stroke-dasharray="160 536"><animate attributeName="stroke-dashoffset" from="696" to="0" dur="6s" repeatCount="indefinite"/></path>
-<g font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#e8e9eb" text-anchor="middle"><rect x="35" y="292" width="218" height="43" rx="20" fill="#111214" fill-opacity=".72" fill-opacity=".84" stroke="#92979d"/><text x="144" y="319">WEB DEVELOPMENT</text><rect x="35" y="347" width="218" height="43" rx="20" fill="#111214" fill-opacity=".72" fill-opacity=".84" stroke="#92979d"/><text x="144" y="374">DATA &amp; AI · TESTING</text><rect x="1140" y="292" width="225" height="43" rx="20" fill="#111214" fill-opacity=".72" fill-opacity=".84" stroke="#92979d"/><text x="1252" y="319">CLOUD &amp; CI/CD</text><rect x="1140" y="347" width="225" height="43" rx="20" fill="#111214" fill-opacity=".72" fill-opacity=".84" stroke="#92979d"/><text x="1252" y="374">ARCHITECTURE</text></g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#e8e9eb" text-anchor="middle"><rect x="35" y="292" width="218" height="43" rx="20" fill="#202124" fill-opacity=".84" stroke="#92979d"/><text x="144" y="319">WEB DEVELOPMENT</text><rect x="35" y="347" width="218" height="43" rx="20" fill="#202124" fill-opacity=".84" stroke="#92979d"/><text x="144" y="374">DATA &amp; AI · TESTING</text><rect x="1140" y="292" width="225" height="43" rx="20" fill="#202124" fill-opacity=".84" stroke="#92979d"/><text x="1252" y="319">CLOUD &amp; CI/CD</text><rect x="1140" y="347" width="225" height="43" rx="20" fill="#202124" fill-opacity=".84" stroke="#92979d"/><text x="1252" y="374">ARCHITECTURE</text></g>
 <text x="700" y="417" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4" text-anchor="middle" fill="#a8acb2">BUILD  •  TEST  •  EVOLVE</text>
 </svg>
