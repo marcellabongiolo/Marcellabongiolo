@@ -1,11 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Marcella Bongiolo — Software Engineering">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050d1c"/><stop offset="1" stop-color="#142b49"/></linearGradient><linearGradient id="silver" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".52" stop-color="#c6d3e6"/><stop offset="1" stop-color="#879bb8"/></linearGradient><linearGradient id="line"><stop stop-color="#466b96"/><stop offset=".5" stop-color="#a9c7eb"/><stop offset="1" stop-color="#466b96"/></linearGradient></defs>
-<rect width="1200" height="350" fill="url(#bg)"/><g stroke="#4c81b7" opacity=".18" fill="none"><path d="M0 72H1200M0 140H1200M0 210H1200M0 280H1200M150 0V350M300 0V350M450 0V350M600 0V350M750 0V350M900 0V350M1050 0V350"/></g>
-<rect x="18" y="18" width="1164" height="314" rx="22" fill="none" stroke="url(#line)" stroke-width="2"/>
-<circle cx="145" cy="169" r="98" fill="#0c213b" stroke="#6b9fce" stroke-width="2"/><circle cx="145" cy="169" r="81" fill="none" stroke="#a5c5e7" stroke-width="1" stroke-dasharray="6 9"><animateTransform attributeName="transform" type="rotate" from="0 145 169" to="360 145 169" dur="24s" repeatCount="indefinite"/></circle><text x="145" y="188" font-family="Arial,sans-serif" font-size="63" text-anchor="middle" fill="#cbdcf0" font-weight="bold">&lt;/&gt;<animate attributeName="opacity" values="1;.55;1" dur="4s" repeatCount="indefinite"/></text>
-<text x="280" y="111" font-family="Arial,sans-serif" font-size="57" font-weight="bold" fill="url(#silver)" letter-spacing="2">MARCELLA BONGIOLO</text>
-<text x="284" y="161" font-family="Arial,sans-serif" font-size="28" fill="#d1deed" letter-spacing="6">SOFTWARE ENGINEERING</text>
-<path d="M284 185H1054" stroke="#8ab8e5" stroke-width="2" stroke-dasharray="170 600"><animate attributeName="stroke-dashoffset" from="770" to="0" dur="5s" repeatCount="indefinite"/></path>
-<g font-family="Arial,sans-serif" font-size="15" fill="#e2ebf7"><rect x="282" y="209" width="196" height="43" rx="20" fill="#193653" stroke="#87a8c9"/><text x="380" y="236" text-anchor="middle">WEB DEVELOPMENT</text><rect x="495" y="209" width="150" height="43" rx="20" fill="#193653" stroke="#87a8c9"/><text x="570" y="236" text-anchor="middle">DATA &amp; AI</text><rect x="661" y="209" width="145" height="43" rx="20" fill="#193653" stroke="#87a8c9"/><text x="733" y="236" text-anchor="middle">TESTING</text><rect x="821" y="209" width="223" height="43" rx="20" fill="#193653" stroke="#87a8c9"/><text x="932" y="236" text-anchor="middle">ARCHITECTURE &amp; CI/CD</text></g>
-<text x="284" y="292" font-family="Arial,sans-serif" font-size="17" letter-spacing="2" fill="#9ebcda">PYTHON  •  TYPESCRIPT  •  GIT  •  SOFTWARE ENGINEERING</text>
-<g fill="#9fc7ee" opacity=".7"><circle cx="1094" cy="78" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="1125" cy="109" r="3"><animate attributeName="opacity" values="1;.2;1" dur="3.1s" repeatCount="indefinite"/></circle><circle cx="1092" cy="264" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle></g><path d="M1094 78L1125 109L1092 264" stroke="#6d98c5" fill="none" opacity=".5"/><g><circle r="4" fill="#c5e2ff"><animateMotion dur="7s" repeatCount="indefinite" path="M284 185 H1054"/></circle></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-label="Marcella Bongiolo — Software Engineering. Animated futuristic four-dimensional inspired technology banner.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030a17"/><stop offset=".55" stop-color="#0b1c35"/><stop offset="1" stop-color="#162b48"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".4" stop-color="#dce8f6"/><stop offset=".8" stop-color="#849bb8"/><stop offset="1" stop-color="#f2f8ff"/></linearGradient>
+<linearGradient id="cyan"><stop stop-color="#6c96cc"/><stop offset=".5" stop-color="#c5e8ff"/><stop offset="1" stop-color="#4479b7"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#4e9be3" stop-opacity=".22"/><stop offset="1" stop-color="#4e9be3" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+<pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#608ab8" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1400" height="440" fill="url(#bg)"/><rect width="1400" height="440" fill="url(#grid)"/>
+<ellipse cx="1110" cy="220" rx="280" ry="215" fill="url(#halo)"><animate attributeName="opacity" values=".65;1;.65" dur="7s" repeatCount="indefinite"/></ellipse>
+<path d="M24 65V25H100 M1300 25H1376V100 M24 344V415H100 M1300 415H1376V344" fill="none" stroke="#a4c8ef" stroke-width="3" opacity=".7"/>
+<g transform="translate(1100 217)">
+<g fill="none" stroke="#83b6e8" stroke-width="2" opacity=".65">
+<ellipse rx="176" ry="86" transform="rotate(-28)"><animateTransform attributeName="transform" type="rotate" from="-28" to="332" dur="24s" repeatCount="indefinite"/></ellipse>
+<ellipse rx="176" ry="86" transform="rotate(52)"><animateTransform attributeName="transform" type="rotate" from="52" to="-308" dur="30s" repeatCount="indefinite"/></ellipse>
+<circle r="122" stroke-dasharray="6 13"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="35s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="none" stroke="url(#cyan)" stroke-width="2.5">
+<path d="M-75 -62L16 -95L96 -26L26 73L-75 54Z M-75 -62L-12 6L96 -26 M-12 6L26 73 M16 -95L-12 6 M-75 54L-12 6" />
+<path d="M-43 -96L75 -58L116 40L-2 98L-115 15Z M-43 -96L-2 98 M75 -58L-115 15 M116 40L-43 -96" opacity=".55">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/></path>
+<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="42s" repeatCount="indefinite"/>
+</g>
+<circle r="15" fill="#e2f5ff" opacity=".7" filter="url(#glow)"/><circle r="6" fill="#eaf8ff"/>
+<g fill="#b6dcff"><circle cx="-176" cy="0" r="4"/><circle cx="176" cy="0" r="4"/><circle cy="-122" r="4"/><circle cy="122" r="4"/></g>
+</g>
+<text x="80" y="132" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="66" letter-spacing="2" fill="url(#metal)">MARCELLA</text>
+<text x="80" y="203" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="66" letter-spacing="2" fill="url(#metal)">BONGIOLO</text>
+<text x="84" y="256" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="600" letter-spacing="7" fill="#d6e5f8">SOFTWARE ENGINEERING</text>
+<path d="M84 280H780" stroke="#7fb7ee" stroke-width="3" stroke-dasharray="160 536"><animate attributeName="stroke-dashoffset" from="696" to="0" dur="6s" repeatCount="indefinite"/></path>
+<g font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#e8f3ff" text-anchor="middle">
+<rect x="82" y="309" width="208" height="49" rx="24" fill="#173351" stroke="#8daecc"/><text x="186" y="340">WEB DEVELOPMENT</text>
+<rect x="306" y="309" width="160" height="49" rx="24" fill="#173351" stroke="#8daecc"/><text x="386" y="340">DATA &amp; AI</text>
+<rect x="482" y="309" width="142" height="49" rx="24" fill="#173351" stroke="#8daecc"/><text x="553" y="340">TESTING</text>
+<rect x="640" y="309" width="182" height="49" rx="24" fill="#173351" stroke="#8daecc"/><text x="731" y="340">CLOUD &amp; CI/CD</text>
+</g>
+<text x="84" y="399" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3" fill="#91b5dc">PYTHON  /  TYPESCRIPT  /  ARCHITECTURE  /  GIT</text>
+<text x="1100" y="396" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" text-anchor="middle" fill="#a9c6e6">BUILD  •  TEST  •  EVOLVE</text>
+</svg>
