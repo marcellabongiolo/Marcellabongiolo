@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-label="Ancient Scottish castle under moonlight with animated mist and dimensional luminous rings">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#030a1a"/><stop offset=".6" stop-color="#17335a"/><stop offset="1" stop-color="#4b7090"/></linearGradient><linearGradient id="stone" x2="0" y2="1"><stop stop-color="#8092a6"/><stop offset=".45" stop-color="#4a6077"/><stop offset="1" stop-color="#172b42"/></linearGradient><radialGradient id="moon"><stop stop-color="#fff"/><stop offset=".6" stop-color="#d3e8ff"/><stop offset="1" stop-color="#90b3d7"/></radialGradient><linearGradient id="water" x2="0" y2="1"><stop stop-color="#355e80"/><stop offset="1" stop-color="#061528"/></linearGradient></defs>
+<rect width="1400" height="520" fill="url(#sky)"/><circle cx="1110" cy="90" r="57" fill="url(#moon)" opacity=".9"/><circle cx="1110" cy="90" r="78" fill="none" stroke="#d8efff" opacity=".16"><animate attributeName="r" values="65;95;65" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M0 345L130 230L245 333L390 210L555 332L750 185L930 340L1110 195L1260 300L1400 210V520H0Z" fill="#10243c"/><path d="M0 400L200 315L350 375L570 280L810 365L1050 285L1400 390V520H0Z" fill="#1a344e"/>
+<path d="M200 426L440 345L880 345L1130 430L1400 456V520H0V468Z" fill="#0a1b2c"/>
+<g fill="url(#stone)" stroke="#b0c3d4" stroke-width="3">
+<path d="M440 365V212H935V365Z"/><path d="M490 215V132H560V215Z M807 215V118H883V215Z"/><path d="M470 132V115H580V132L570 101H480Z M790 118V100H900V118L889 84H801Z" fill="#526982"/>
+<path d="M618 365V155H751V365Z"/><path d="M601 155V134H768V155L744 107H625Z" fill="#596f85"/>
+<path d="M395 373V178H480V373Z M892 373V164H977V373Z"/><path d="M386 178V153H489V178L478 126H397Z M883 164V139H986V164L975 111H894Z" fill="#586e82"/>
+<path d="M420 212H445V240H420Z M923 205H949V233H923Z M646 207H674V247H646Z M700 207H728V247H700Z M522 260H548V301H522Z M837 260H862V301H837Z" fill="#ffd48a" stroke="#6c8095"/>
+<path d="M670 365V303Q683 282 697 303V365Z" fill="#0a1525"/>
+</g>
+<path d="M440 225H935 M440 240H935 M440 272H935 M440 301H935 M440 331H935" stroke="#a9c2d7" stroke-opacity=".12" stroke-width="3"/>
+<path d="M450 117V64" stroke="#d4e4ff" stroke-width="3"/><path d="M451 65L514 83L451 101Z" fill="#b6d8f6"/><path d="M451 65L482 74L451 83Z M482 74L514 83L482 92Z" fill="#214a81"/>
+<path d="M850 86V34" stroke="#d4e4ff" stroke-width="3"/><path d="M851 35L917 53L851 74Z" fill="#b6d8f6"/><path d="M851 35L884 44L851 54Z M884 44L917 53L884 63Z" fill="#214a81"/>
+<g fill="none" stroke="#8ecaff" stroke-width="3" opacity=".85"><ellipse cx="695" cy="288" rx="450" ry="90" transform="rotate(-10 695 288)" stroke-dasharray="500 350"><animate attributeName="stroke-dashoffset" from="0" to="-850" dur="13s" repeatCount="indefinite"/></ellipse><ellipse cx="695" cy="278" rx="280" ry="158" transform="rotate(22 695 278)" stroke-dasharray="380 350"><animate attributeName="stroke-dashoffset" from="0" to="730" dur="17s" repeatCount="indefinite"/></ellipse></g>
+<rect y="430" width="1400" height="90" fill="url(#water)" opacity=".9"/><g stroke="#a8d9ff" stroke-opacity=".35" fill="none"><path d="M0 464Q100 451 200 464T400 464T600 464T800 464T1000 464T1200 464T1400 464"><animateTransform attributeName="transform" type="translate" values="0 0;50 0;0 0" dur="9s" repeatCount="indefinite"/></path><path d="M0 491Q130 478 260 491T520 491T780 491T1040 491T1400 491"><animateTransform attributeName="transform" type="translate" values="0 0;-45 0;0 0" dur="11s" repeatCount="indefinite"/></path></g>
+<g fill="#b4d4e9" opacity=".18"><ellipse cx="280" cy="419" rx="320" ry="24"><animate attributeName="cx" values="280;470;280" dur="16s" repeatCount="indefinite"/></ellipse><ellipse cx="1020" cy="402" rx="360" ry="20"><animate attributeName="cx" values="1020;860;1020" dur="20s" repeatCount="indefinite"/></ellipse></g>
+<text x="700" y="477" font-family="Georgia,serif" font-size="28" letter-spacing="7" text-anchor="middle" fill="#e6f2ff">THE SCOTTISH HIGHLANDS</text>
+</svg>
