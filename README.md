@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/banner-software-engineering.svg" alt="Marcella Bongiolo — Software Engineering; Python, TypeScript, web development, data, testing and architecture" width="100%" />
+  <img src="https://raw.githubusercontent.com/marcellabongiolo/Marcellabongiolo/main/assets/banner-software-engineering.svg?v=20261111b" alt="Marcella Bongiolo — Software Engineering; Python, TypeScript, web development, data, testing and architecture" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/featured-projects-dimensional.svg" alt="Featured projects: AgentTrace, FinTrack, Swiss Company Intelligence, SLADeck and AI 4D" width="100%" />
+  <img src="https://raw.githubusercontent.com/marcellabongiolo/Marcellabongiolo/main/assets/featured-projects-dimensional.svg?v=20261111b" alt="Featured projects: AgentTrace, FinTrack, Swiss Company Intelligence, SLADeck and AI 4D" width="100%" />
 </p>
 
 <p align="center">
