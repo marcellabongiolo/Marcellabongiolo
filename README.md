@@ -14,6 +14,13 @@
   <a href="https://github.com/marcellabongiolo/ai-4d">AI 4D</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/marcellabongiolo/peso_planetas.py">
+    <img src="https://marcellabongiolo.github.io/Marcellabongiolo/assets/solar-system-4d.svg?v=solar-20261111" alt="Animated miniature Solar System with the Sun, eight orbiting planets, a luminous Earth and aurora" width="78%" />
+  </a>
+</p>
+<p align="center"><a href="https://github.com/marcellabongiolo/peso_planetas.py"><strong>Planetary Weight Calculator · Python</strong></a></p>
+
 # Marcella Bongiolo
 
 **Software Engineering Student | Python | Algorithms | Software Architecture | Cloud & Platform Engineering**
