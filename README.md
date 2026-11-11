@@ -59,7 +59,7 @@ I'm especially interested in understanding how software works and turning what I
 
 ## Interactive Engineering Universe
 
-Explore my projects in a futuristic, animated 3D-inspired interface: **[Open Marcella's Engineering Universe](./engineering-universe/index.html)**.
+Explore my projects in a futuristic, animated 3D-inspired interface: **[Open Marcella's Engineering Universe](https://marcellabongiolo.github.io/Marcellabongiolo/)**.
 
 ## Projects
 
