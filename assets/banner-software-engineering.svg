@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-label="Marcella Bongiolo — Software Engineering. Animated futuristic four-dimensional inspired technology banner.">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030a17"/><stop offset=".55" stop-color="#0b1c35"/><stop offset="1" stop-color="#162b48"/></linearGradient>
-<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".4" stop-color="#dce8f6"/><stop offset=".8" stop-color="#849bb8"/><stop offset="1" stop-color="#f2f8ff"/></linearGradient>
-<linearGradient id="cyan"><stop stop-color="#6c96cc"/><stop offset=".5" stop-color="#c5e8ff"/><stop offset="1" stop-color="#4479b7"/></linearGradient>
-<radialGradient id="halo"><stop stop-color="#4e9be3" stop-opacity=".22"/><stop offset="1" stop-color="#4e9be3" stop-opacity="0"/></radialGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030303" stop-opacity=".92"/><stop offset=".55" stop-color="#111214" stop-opacity=".86"/><stop offset="1" stop-color="#242629" stop-opacity=".82"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".4" stop-color="#d8dadd"/><stop offset=".8" stop-color="#888c91"/><stop offset="1" stop-color="#eef0f1"/></linearGradient>
+<linearGradient id="cyan"><stop stop-color="#868b91"/><stop offset=".5" stop-color="#e0e3e6"/><stop offset="1" stop-color="#686e75"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#a5a9ae" stop-opacity=".22"/><stop offset="1" stop-color="#a5a9ae" stop-opacity="0"/></radialGradient>
 <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
-<pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#608ab8" stroke-opacity=".12"/></pattern>
+<pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#9da2a8" stroke-opacity=".12"/></pattern>
 </defs>
 <rect width="1400" height="440" fill="url(#bg)"/><rect width="1400" height="440" fill="url(#grid)"/>
 <ellipse cx="700" cy="205" rx="360" ry="235" fill="url(#halo)"><animate attributeName="opacity" values=".65;1;.65" dur="7s" repeatCount="indefinite"/></ellipse>
-<path d="M24 65V25H100 M1300 25H1376V100 M24 344V415H100 M1300 415H1376V344" fill="none" stroke="#a4c8ef" stroke-width="3" opacity=".7"/>
+<path d="M24 65V25H100 M1300 25H1376V100 M24 344V415H100 M1300 415H1376V344" fill="none" stroke="#c0c3c7" stroke-width="3" opacity=".7"/>
 <g transform="translate(700 198) scale(1.28)">
 <g fill="none" stroke="#83b6e8" stroke-width="2" opacity=".65">
 <ellipse rx="176" ry="86" transform="rotate(-28)"><animateTransform attributeName="transform" type="rotate" from="-28" to="332" dur="24s" repeatCount="indefinite"/></ellipse>
