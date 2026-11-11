@@ -57,6 +57,10 @@ I'm especially interested in understanding how software works and turning what I
 - Software architecture
 - Artificial intelligence and machine learning
 
+## Interactive Engineering Universe
+
+Explore my projects in a futuristic, animated 3D-inspired interface: **[Open Marcella's Engineering Universe](./engineering-universe/index.html)**.
+
 ## Projects
 
 The projects in this profile are part of my **learning process**.
