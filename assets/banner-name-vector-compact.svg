@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-label="Marcella Bongiolo — Software Engineering. Animated futuristic four-dimensional inspired technology banner.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11141b" stop-opacity=".92"/><stop offset=".55" stop-color="#242a35" stop-opacity=".9"/><stop offset="1" stop-color="#394252" stop-opacity=".82"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f2f0ee"/><stop offset=".4" stop-color="#d5d4d9"/><stop offset=".8" stop-color="#a5a7b1"/><stop offset="1" stop-color="#e6e4e9"/></linearGradient>
+<linearGradient id="cyan"><stop stop-color="#a9a8b7"/><stop offset=".5" stop-color="#e5e1e9"/><stop offset="1" stop-color="#9b99a8"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#b8a9ca" stop-opacity=".22"/><stop offset="1" stop-color="#b8a9ca" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+<pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#a6a5b6" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1400" height="440" fill="url(#bg)"/><rect width="1400" height="440" fill="url(#grid)"/>
+<ellipse cx="700" cy="205" rx="360" ry="235" fill="url(#halo)"><animate attributeName="opacity" values=".65;1;.65" dur="7s" repeatCount="indefinite"/></ellipse>
+<path d="M24 65V25H100 M1300 25H1376V100 M24 344V415H100 M1300 415H1376V344" fill="none" stroke="#d3cbd6" stroke-width="3" opacity=".7"/>
+<g transform="translate(700 198) scale(1.28)">
+<g fill="none" stroke="#83b6e8" stroke-width="2" opacity=".65">
+<ellipse rx="176" ry="86" transform="rotate(-28)"><animateTransform attributeName="transform" type="rotate" from="-28" to="332" dur="24s" repeatCount="indefinite"/></ellipse>
+<ellipse rx="176" ry="86" transform="rotate(52)"><animateTransform attributeName="transform" type="rotate" from="52" to="-308" dur="30s" repeatCount="indefinite"/></ellipse>
+<circle r="122" stroke-dasharray="6 13"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="35s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="none" stroke="url(#cyan)" stroke-width="2.5">
+<path d="M-75 -62L16 -95L96 -26L26 73L-75 54Z M-75 -62L-12 6L96 -26 M-12 6L26 73 M16 -95L-12 6 M-75 54L-12 6" />
+<path d="M-43 -96L75 -58L116 40L-2 98L-115 15Z M-43 -96L-2 98 M75 -58L-115 15 M116 40L-43 -96" opacity=".55">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/></path>
+<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="42s" repeatCount="indefinite"/>
+</g>
+<circle r="15" fill="#e2f5ff" opacity=".7" filter="url(#glow)"/><circle r="6" fill="#eaf8ff"/>
+<g fill="#b6dcff"><circle cx="-176" cy="0" r="4"/><circle cx="176" cy="0" r="4"/><circle cy="-122" r="4"/><circle cy="122" r="4"/></g>
+</g>
+<!-- Custom font-independent vector letterforms, kept compact and clear of orbital artwork -->
+<g aria-label="MARCELLA" fill="none" stroke="url(#metal)" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" transform="translate(82 89) scale(1.12)"><path d="M0 32V0L12 18L24 0V32" transform="translate(0 0)"/><path d="M0 32L12 0L24 32M5 21H19" transform="translate(34 0)"/><path d="M0 32V0H16Q24 0 24 9Q24 18 16 18H0M13 18L25 32" transform="translate(68 0)"/><path d="M24 4Q18 0 12 0Q0 0 0 16Q0 32 12 32Q18 32 24 28" transform="translate(102 0)"/><path d="M24 0H0V32H24M0 16H19" transform="translate(136 0)"/><path d="M0 0V32H24" transform="translate(170 0)"/><path d="M0 0V32H24" transform="translate(204 0)"/><path d="M0 32L12 0L24 32M5 21H19" transform="translate(238 0)"/></g>
+<g aria-label="BONGIOLO" fill="none" stroke="url(#metal)" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" transform="translate(82 160) scale(1.12)"><path d="M0 32V0H15Q24 0 24 8Q24 16 15 16H0M15 16Q25 16 25 24Q25 32 15 32H0" transform="translate(0 0)"/><path d="M12 0Q24 0 24 16Q24 32 12 32Q0 32 0 16Q0 0 12 0Z" transform="translate(34 0)"/><path d="M0 32V0L24 32V0" transform="translate(68 0)"/><path d="M24 6Q18 0 12 0Q0 0 0 16Q0 32 12 32Q24 32 24 22V18H13" transform="translate(102 0)"/><path d="M0 0H24M12 0V32M0 32H24" transform="translate(136 0)"/><path d="M12 0Q24 0 24 16Q24 32 12 32Q0 32 0 16Q0 0 12 0Z" transform="translate(170 0)"/><path d="M0 0V32H24" transform="translate(204 0)"/><path d="M12 0Q24 0 24 16Q24 32 12 32Q0 32 0 16Q0 0 12 0Z" transform="translate(238 0)"/></g>
+<text x="84" y="256" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="600" letter-spacing="7" fill="#d6e5f8">SOFTWARE ENGINEERING</text>
+<path d="M84 280H780" stroke="#7fb7ee" stroke-width="3" stroke-dasharray="160 536"><animate attributeName="stroke-dashoffset" from="696" to="0" dur="6s" repeatCount="indefinite"/></path>
+<g font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#e8f3ff" text-anchor="middle"><rect x="35" y="292" width="218" height="43" rx="20" fill="#173351" stroke="#8daecc"/><text x="144" y="319">WEB DEVELOPMENT</text><rect x="35" y="347" width="218" height="43" rx="20" fill="#173351" stroke="#8daecc"/><text x="144" y="374">DATA &amp; AI · TESTING</text><rect x="1140" y="292" width="225" height="43" rx="20" fill="#173351" stroke="#8daecc"/><text x="1252" y="319">CLOUD &amp; CI/CD</text><rect x="1140" y="347" width="225" height="43" rx="20" fill="#173351" stroke="#8daecc"/><text x="1252" y="374">ARCHITECTURE</text></g>
+<text x="700" y="417" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4" text-anchor="middle" fill="#a9c6e6">BUILD  •  TEST  •  EVOLVE</text>
+</svg>
