@@ -25,8 +25,8 @@
 <circle r="15" fill="#e2f5ff" opacity=".7" filter="url(#glow)"/><circle r="6" fill="#eaf8ff"/>
 <g fill="#b6dcff"><circle cx="-176" cy="0" r="4"/><circle cx="176" cy="0" r="4"/><circle cy="-122" r="4"/><circle cy="122" r="4"/></g>
 </g>
-<text x="80" y="132" font-family="'Space Grotesk','Arial',sans-serif" font-weight="700" font-size="66" letter-spacing="3" fill="url(#metal)">MARCELLA</text>
-<text x="80" y="203" font-family="'Space Grotesk','Arial',sans-serif" font-weight="700" font-size="66" letter-spacing="3" fill="url(#metal)">BONGIOLO</text>
+<text x="80" y="132" font-family="Arial Black,Arial,Helvetica,sans-serif" font-weight="900" font-size="72" letter-spacing="5" stroke="#d9d6df" stroke-width=".45" paint-order="stroke fill" fill="url(#metal)">MARCELLA</text>
+<text x="80" y="203" font-family="Arial Black,Arial,Helvetica,sans-serif" font-weight="900" font-size="72" letter-spacing="5" stroke="#d9d6df" stroke-width=".45" paint-order="stroke fill" fill="url(#metal)">BONGIOLO</text>
 <text x="84" y="256" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="600" letter-spacing="7" fill="#d6e5f8">SOFTWARE ENGINEERING</text>
 <path d="M84 280H780" stroke="#7fb7ee" stroke-width="3" stroke-dasharray="160 536"><animate attributeName="stroke-dashoffset" from="696" to="0" dur="6s" repeatCount="indefinite"/></path>
 <g font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#e8f3ff" text-anchor="middle"><rect x="35" y="292" width="218" height="43" rx="20" fill="#173351" stroke="#8daecc"/><text x="144" y="319">WEB DEVELOPMENT</text><rect x="35" y="347" width="218" height="43" rx="20" fill="#173351" stroke="#8daecc"/><text x="144" y="374">DATA &amp; AI · TESTING</text><rect x="1140" y="292" width="225" height="43" rx="20" fill="#173351" stroke="#8daecc"/><text x="1252" y="319">CLOUD &amp; CI/CD</text><rect x="1140" y="347" width="225" height="43" rx="20" fill="#173351" stroke="#8daecc"/><text x="1252" y="374">ARCHITECTURE</text></g>
