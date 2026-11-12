@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <em>“The best way to predict the future is to invent it.”</em><br />
-  <sub>— Alan Kay</sub>
+  <em><span style="color:#C0C0C0;">“The best way to predict the future is to invent it.”</span></em><br />
+  <sub><span style="color:#9299A5;">— Alan Kay</span></sub>
 </p>
 
 # Marcella Bongiolo
