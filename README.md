@@ -71,6 +71,16 @@ The projects in this profile are part of my **learning process**.
 
 Some of them explore technologies and concepts that I'm still studying. They are not meant to represent professional experience or advanced expertise. Instead, they show my initiative to **learn, experiment, build, and improve**.
 
+### Featured engineering project · AgentTrace
+
+<p align="center">
+  <a href="https://github.com/marcellabongiolo/AgentTrace">
+    <img src="https://raw.githubusercontent.com/marcellabongiolo/Marcellabongiolo/main/assets/agenttrace-observability-animated.svg" alt="Animated AgentTrace architecture: Python SDK, FastAPI, SQLite, Next.js and telemetry flow" width="92%" />
+  </a>
+</p>
+
+**[Explore AgentTrace](https://github.com/marcellabongiolo/AgentTrace)** — a full-stack observability MVP with telemetry instrumentation, API, storage, monitoring dashboard and automated tests.
+
 ### Selected implemented projects
 
 | Project | What to review |
