@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://marcellabongiolo.github.io/Marcellabongiolo/assets/banner-software-engineering.svg?v=code-font-20261111" alt="Marcella Bongiolo — Software Engineering; Python, TypeScript, web development, data, testing and architecture" width="100%" />
+  <img src="https://marcellabongiolo.github.io/Marcellabongiolo/assets/banner-software-engineering.svg?v=bold-display-20261111" alt="Marcella Bongiolo — Software Engineering; Python, TypeScript, web development, data, testing and architecture" width="100%" />
 </p>
 
 <p align="center">
