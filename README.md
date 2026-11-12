@@ -12,24 +12,20 @@
 
 # Marcella Bongiolo
 
-**Software Engineering Student | Python | Algorithms | Software Architecture | Cloud & Platform Engineering**
+**Aspiring Software Engineer · Python · Full-Stack Projects · Testing & Architecture**
 
-Welcome to my GitHub profile. I'm currently at the beginning of my journey in **Software Engineering and technology**.
+I build and document software projects to turn engineering concepts into working systems. My portfolio includes an **AI-agent observability platform**, a **personal finance application**, and experiments in **data analysis, operations workflows, and interactive visualization**.
 
-I don't have professional experience in the tech industry yet. I'm still learning, exploring different technologies, and building personal projects to put what I study into practice.
-
-I'm especially interested in understanding how software works and turning what I learn into practical projects.
+I'm developing my skills through hands-on implementation, automated tests, documentation, and iterative improvements. These are **personal and educational projects**, not claims of professional industry experience.
 
 ## Current Focus
 
-- Preparing for a degree in **Software Engineering at UNESC**
-- Learning and developing with **Python**
-- Strengthening programming and computer science fundamentals
-- Exploring software architecture and clean code
-- Learning databases and SQL
-- Exploring web development and JavaScript
-- Learning about **Cloud & Platform Engineering**
-- Building projects as part of my learning journey
+- **Programming fundamentals:** Python, algorithms, data structures, and SQL
+- **Application development:** JavaScript/TypeScript, React, APIs, and databases
+- **Software quality:** unit and integration tests, Git, code reviews, and CI
+- **Systems thinking:** architecture, observability, cloud, and platform engineering
+
+My approach is to **build → test → document → improve**.
 
 ## Technologies & Concepts I'm Exploring
 
@@ -37,25 +33,13 @@ I'm especially interested in understanding how software works and turning what I
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git&theme=dark" alt="Python, JavaScript, TypeScript, React, HTML, CSS and Git" />
 </p>
 
-**Languages**
-- Python
-- JavaScript
-- SQL
+**Used in portfolio projects:** Python, JavaScript/TypeScript, React/Next.js, FastAPI, HTML/CSS, SQLite, Git, and GitHub Actions.
 
-**Engineering**
-- Object-oriented programming
-- Software architecture
-- Clean code
-- Automated testing
-- Git & GitHub
-- CI/CD fundamentals
+**Currently strengthening:** algorithms, SQL, object-oriented design, automated testing, code quality, and CI/CD.
 
-**Areas of Interest**
-- Cloud computing
-- Platform engineering
-- Distributed systems
-- Software architecture
-- Artificial intelligence and machine learning
+**Exploring next:** cloud infrastructure, platform engineering, distributed systems, and AI systems.
+
+*The icons above represent technologies I use or study—not a claim of expert proficiency.*
 
 ## Interactive Engineering Universe
 
@@ -67,9 +51,7 @@ Explore my projects in a futuristic, animated 3D-inspired interface: **[Open Mar
 
 ## Projects
 
-The projects in this profile are part of my **learning process**.
-
-Some of them explore technologies and concepts that I'm still studying. They are not meant to represent professional experience or advanced expertise. Instead, they show my initiative to **learn, experiment, build, and improve**.
+A selection of hands-on projects, with links to their code, documentation, and available demos. Each project highlights a different engineering challenge.
 
 ### Featured engineering project · AgentTrace
 
@@ -79,14 +61,20 @@ Some of them explore technologies and concepts that I'm still studying. They are
   </a>
 </p>
 
-**[Explore AgentTrace](https://github.com/marcellabongiolo/AgentTrace)** — a full-stack observability MVP with telemetry instrumentation, API, storage, monitoring dashboard and automated tests.
+**[Explore AgentTrace](https://github.com/marcellabongiolo/AgentTrace)** — my featured end-to-end engineering project.
+
+- **Instrumentation:** Python SDK records structured traces, spans, events, and errors.
+- **Backend and data:** FastAPI ingestion/query endpoints with SQLite persistence.
+- **Interface:** Next.js/TypeScript dashboard for filtering and inspecting traces.
+- **Quality:** automated Python and React tests, linting, CI, and Docker-based local setup.
+
+**Status:** completed local portfolio MVP; the animation illustrates the architecture rather than a live hosted service.
 
 ### Selected implemented projects
 
 | Project | What to review |
 |---|---|
-| [AgentTrace](https://github.com/marcellabongiolo/AgentTrace) | Local observability MVP: Python SDK, FastAPI, SQLite and Next.js; public hosting requires access controls. |
-| [FinTrack](https://github.com/marcellabongiolo/fintrack) | React/TypeScript browser demo with transaction management and tests. [Live demo](https://marcellabongiolo.github.io/fintrack/). |
+| [FinTrack](https://github.com/marcellabongiolo/fintrack) | React/TypeScript finance interface with transaction management and tests. [Live demo](https://marcellabongiolo.github.io/fintrack/). |
 | [Swiss Company Intelligence](https://github.com/marcellabongiolo/swiss-company-intelligence) | Explainable screening pipeline and Streamlit dashboard using synthetic demo data. |
 | [SLADeck](https://github.com/marcellabongiolo/SLADeck) | Local multi-tenant operations MVP with tested account onboarding, SLA policies and request workflows. |
 | [AI 4D](https://github.com/marcellabongiolo/ai-4d) | Interactive geometry visualization and experimental temporal-analysis API. |
@@ -100,9 +88,7 @@ Some of them explore technologies and concepts that I'm still studying. They are
     <img src="https://raw.githubusercontent.com/marcellabongiolo/Marcellabongiolo/main/assets/solar-system-4d.svg?version=aurora3" alt="Animated miniature Solar System with the Sun, eight orbiting planets, a luminous Earth and aurora" width="78%" />
   </a>
 </p>
-<p align="center"><a href="https://github.com/marcellabongiolo/peso_planetas.py"><strong>Planetary Weight Calculator · Python</strong></a></p>
-
-Explore the [Planetary Weight Calculator](https://github.com/marcellabongiolo/peso_planetas.py), a Python project that calculates weight equivalents across Solar System bodies.
+Explore the [Planetary Weight Calculator](https://github.com/marcellabongiolo/peso_planetas.py), a Python exercise that calculates weight equivalents across Solar System bodies. The animation is a visual illustration of the project.
 
 ### NEXUS — Intelligent Systems Lab
 
@@ -110,25 +96,18 @@ An interactive personal laboratory exploring **software engineering, artificial 
 
 [Explore NEXUS](./projects/nexus-intelligent-systems/)
 
-As I gain more knowledge, I plan to revisit my projects, improve their implementations, and apply better practices.
+## Engineering Approach
 
-## Learning Philosophy
+I use GitHub as a technical portfolio and learning laboratory. Across projects, I focus on:
 
-I use GitHub as a **technical portfolio and learning laboratory**.
+- **Readable code:** clear structure, naming, and documentation.
+- **Verification:** automated tests and reproducible local instructions.
+- **Iteration:** issues, branches, pull requests, and incremental improvements.
+- **Honest scope:** distinguishing working local MVPs, public demos, and experiments.
 
-My goal is to progressively improve through practice:
+## What's Next
 
-**logic → code quality → testing → architecture → systems → cloud**
-
-Each repository represents a step in that learning process.
-
-## Long-Term Direction
-
-My long-term interests are centered around **Software Engineering, Cloud & Platform Engineering, scalable systems, and technical leadership**.
-
-I'm especially interested in learning how software systems are designed, developed, deployed, operated, and evolved.
-
-I'm still at the beginning, but I genuinely enjoy technology and want to keep learning and building.
+I'm continuing to strengthen software engineering fundamentals while exploring **cloud, platform engineering, scalable systems, and observability**.
 
 ## GitHub Activity
 
@@ -141,7 +120,7 @@ I'm still at the beginning, but I genuinely enjoy technology and want to keep le
   </a>
 </p>
 
-My contribution graph, commits, and repositories are available on my [GitHub profile](https://github.com/marcellabongiolo?tab=overview).
+For an up-to-date view of my work, see my [contribution history](https://github.com/marcellabongiolo?tab=overview) and [repositories](https://github.com/marcellabongiolo?tab=repositories). These links use GitHub's own pages instead of potentially unreliable third-party statistics images.
 
 ## Contact
 
