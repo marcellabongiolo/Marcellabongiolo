@@ -10,6 +10,11 @@
   <a href="https://github.com/marcellabongiolo/ai-4d">AI 4D</a>
 </p>
 
+<p align="center">
+  <em>“The best way to predict the future is to invent it.”</em><br />
+  <sub>— Alan Kay</sub>
+</p>
+
 # Marcella Bongiolo
 
 **Aspiring Software Engineer · Python · Full-Stack Projects · Testing & Architecture**
