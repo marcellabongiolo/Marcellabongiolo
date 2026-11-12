@@ -119,9 +119,15 @@ I'm still at the beginning, but I genuinely enjoy technology and want to keep le
 ## GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcellabongiolo&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellabongiolo&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://github.com/marcellabongiolo?tab=overview">
+    <img src="https://img.shields.io/badge/VIEW-MY%20GITHUB%20ACTIVITY-394252?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity and contribution graph" />
+  </a>
+  <a href="https://github.com/marcellabongiolo?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-6b657b?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+  </a>
 </p>
+
+My contribution graph, commits, and repositories are available on my [GitHub profile](https://github.com/marcellabongiolo?tab=overview).
 
 ## Contact
 
