@@ -121,9 +121,15 @@ I'm still at the beginning, but I genuinely enjoy technology and want to keep le
 
 ## Contact
 
-- **GitHub:** [@marcellabongiolo](https://github.com/marcellabongiolo)
-- **LinkedIn:** [Marcella Bongiolo](https://www.linkedin.com/in/marcella-bongiolo-68441a354/)
-- **Email:** marcellabongioloemili@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git&theme=dark" alt="Python, JavaScript, TypeScript, React, HTML, CSS and Git" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/marcellabongiolo"><img src="https://img.shields.io/badge/GITHUB-MARCELLABONGIOLO-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Marcella Bongiolo" /></a>
+  <a href="https://www.linkedin.com/in/marcella-bongiolo-68441a354/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Marcella Bongiolo" /></a>
+  <a href="mailto:marcellabongioloemili@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND%20A%20MESSAGE-B85C83?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Marcella Bongiolo" /></a>
+</p>
 
 ---
 
