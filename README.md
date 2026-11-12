@@ -44,6 +44,10 @@ I'm especially interested in understanding how software works and turning what I
 
 ## Technologies & Concepts I'm Exploring
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git&theme=dark" alt="Python, JavaScript, TypeScript, React, HTML, CSS and Git" />
+</p>
+
 **Languages**
 - Python
 - JavaScript
@@ -120,10 +124,6 @@ I'm still at the beginning, but I genuinely enjoy technology and want to keep le
 </p>
 
 ## Contact
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git&theme=dark" alt="Python, JavaScript, TypeScript, React, HTML, CSS and Git" />
-</p>
 
 <p align="center">
   <a href="https://github.com/marcellabongiolo"><img src="https://img.shields.io/badge/GITHUB-MARCELLABONGIOLO-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Marcella Bongiolo" /></a>
