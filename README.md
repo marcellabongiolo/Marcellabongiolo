@@ -3,23 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://marcellabongiolo.github.io/Marcellabongiolo/assets/featured-projects-dimensional.svg?v=black-graphite-20261111-2" alt="Featured projects: AgentTrace, FinTrack, Swiss Company Intelligence, SLADeck and AI 4D" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/marcellabongiolo/AgentTrace">AgentTrace</a> ·
   <a href="https://github.com/marcellabongiolo/fintrack">FinTrack</a> ·
   <a href="https://github.com/marcellabongiolo/swiss-company-intelligence">Swiss Company Intelligence</a> ·
   <a href="https://github.com/marcellabongiolo/SLADeck">SLADeck</a> ·
   <a href="https://github.com/marcellabongiolo/ai-4d">AI 4D</a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/marcellabongiolo/peso_planetas.py">
-    <img src="https://raw.githubusercontent.com/marcellabongiolo/Marcellabongiolo/main/assets/solar-system-4d.svg?version=aurora3" alt="Animated miniature Solar System with the Sun, eight orbiting planets, a luminous Earth and aurora" width="78%" />
-  </a>
-</p>
-<p align="center"><a href="https://github.com/marcellabongiolo/peso_planetas.py"><strong>Planetary Weight Calculator · Python</strong></a></p>
 
 # Marcella Bongiolo
 
@@ -72,6 +61,10 @@ I'm especially interested in understanding how software works and turning what I
 
 Explore my projects in a futuristic, animated 3D-inspired interface: **[Open Marcella's Engineering Universe](https://marcellabongiolo.github.io/Marcellabongiolo/)**.
 
+<p align="center">
+  <img src="https://marcellabongiolo.github.io/Marcellabongiolo/assets/featured-projects-dimensional.svg?v=black-graphite-20261111-2" alt="Featured projects: AgentTrace, FinTrack, Swiss Company Intelligence, SLADeck and AI 4D" width="100%" />
+</p>
+
 ## Projects
 
 The projects in this profile are part of my **learning process**.
@@ -89,6 +82,17 @@ Some of them explore technologies and concepts that I'm still studying. They are
 | [AI 4D](https://github.com/marcellabongiolo/ai-4d) | Interactive geometry visualization and experimental temporal-analysis API. |
 
 [Visit my portfolio](https://marcellabongiolo.github.io/portfolio-app/). Small exercises and forks are supplementary learning material; a fork by itself is not evidence of an original implementation.
+
+### Planetary Weight Calculator · Python
+
+<p align="center">
+  <a href="https://github.com/marcellabongiolo/peso_planetas.py">
+    <img src="https://raw.githubusercontent.com/marcellabongiolo/Marcellabongiolo/main/assets/solar-system-4d.svg?version=aurora3" alt="Animated miniature Solar System with the Sun, eight orbiting planets, a luminous Earth and aurora" width="78%" />
+  </a>
+</p>
+<p align="center"><a href="https://github.com/marcellabongiolo/peso_planetas.py"><strong>Planetary Weight Calculator · Python</strong></a></p>
+
+Explore the [Planetary Weight Calculator](https://github.com/marcellabongiolo/peso_planetas.py), a Python project that calculates weight equivalents across Solar System bodies.
 
 ### NEXUS — Intelligent Systems Lab
 
