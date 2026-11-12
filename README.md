@@ -90,7 +90,7 @@ A selection of hands-on projects, with links to their code, documentation, and a
 
 <p align="center">
   <a href="https://github.com/marcellabongiolo/peso_planetas.py">
-    <img src="https://raw.githubusercontent.com/marcellabongiolo/Marcellabongiolo/main/assets/solar-system-4d.svg?version=aurora3" alt="Animated miniature Solar System with the Sun, eight orbiting planets, a luminous Earth and aurora" width="78%" />
+    <img src="https://raw.githubusercontent.com/marcellabongiolo/Marcellabongiolo/main/assets/solar-system-aurora-curtains.svg" alt="Animated miniature Solar System with the Sun, eight orbiting planets, a luminous Earth and aurora" width="78%" />
   </a>
 </p>
 Explore the [Planetary Weight Calculator](https://github.com/marcellabongiolo/peso_planetas.py), a Python exercise that calculates weight equivalents across Solar System bodies. The animation is a visual illustration of the project.
